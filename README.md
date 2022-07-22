@@ -1,7 +1,7 @@
-### Bhathiya Bandara
+# Bhathiya Bandara
 undergraduate | BSc.(Hons) in Electronics & Information Technology (UOC)
 
-# Hi...! I'm Bhathiya Akalanka Ranaweera Bandara. I am a student, a programmer, a baseball player, and a responsible person. I live in Kandy. My native language is Sinhala, but I am fluent in English and some Tamil.
+### Hi...! I'm Bhathiya Akalanka Ranaweera Bandara. I am a student, a programmer, a baseball player, and a responsible person. I live in Kandy. My native language is Sinhala, but I am fluent in English and some Tamil.
 
 ![I am GitHub Readme Generator's creator](https://github.com/bhathi97/bhathi97/blob/main/Banner.gif)
 
