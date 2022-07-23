@@ -4,6 +4,7 @@ undergraduate | BSc.(Hons) in Electronics & Information Technology (UOC)
 ![I am GitHub Readme Generator's creator](https://github.com/bhathi97/bhathi97/blob/main/Banner.gif)
 
 Hi...! I'm Bhathiya Akalanka Ranaweera Bandara. I am a student, a programmer, a baseball player, and a responsible person. I live in Kandy. My native language is Sinhala, but I am fluent in English and some Tamil.
+
 I want to learn new things that can broaden my horizons. My personal skills include time management, problem solving, creative thinking, teamwork, leadership and organizational skills. I'm a multitasker, but I can do my best by adding new value to a goal by pursuing one goal at a time.
 
 Skills: java / electronics / SQL
