@@ -34,7 +34,13 @@ I possess expertise in Java, Electronics, SQL, JavaScript, C, Python, IoT, Ardui
 
 <p align="left">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathi97&theme=radical&border=7F3FBF&background=0D1117" alt="Bhathiya's GitHub streak" alt="Bhathiya GitHub Status"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathi97&theme=radical&border=7F3FBF&background=0D1117" alt="Bhathiya GitHub Status"/>
+  </a>
+</p>
+
+<p align="left">
+  <a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bhathi97&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Bhathiya GitHub Lanvages"/>
   </a>
 </p>
 
