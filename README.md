@@ -16,7 +16,6 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
 ![I am GitHub Readme Generator's creator](https://github.com/bhathi97/bhathi97/blob/main/Banner.gif)
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/bhathi97/count.svg" />
 </p>
 
@@ -29,8 +28,6 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 - 💬 Ask me about **.NET, C#, WPF, Laravel , Java, Electronics, SQL, JavaScript, C, Python, IoT, Arduino and VB**
 
 - 📫 Reach me **bhathiya.rb@gmail.com**
-  
-I possess expertise in .
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhathi97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Bhathiya_Bandara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bhathiya_R_Bandara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bhathiya_r_bandara/)  
 
