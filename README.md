@@ -27,13 +27,20 @@ I possess expertise in Java, Electronics, SQL, JavaScript, C, Python, IoT, Ardui
 
 <p align="left">
   <a>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathi97&theme=radical&border=7F3FBF&background=0D1117" alt="Bhathiya's GitHub streak"/>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhathi97&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%%22" alt="Bhathiya GitHub Contribution"/>
+  </a>
+</p>
+
+
+<p align="left">
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathi97&theme=radical&border=7F3FBF&background=0D1117" alt="Bhathiya's GitHub streak" alt="Bhathiya GitHub Status"/>
   </a>
 </p>
 
 ![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhathi97&custom_title=Bhathiya%20Bandara%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhathi97)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
