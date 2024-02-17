@@ -46,7 +46,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 
 - 💬 Ask me about 
-<div align="center">
+<div>
 
   ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![WPF](https://img.icons8.com/color/48/000000/xaml.png)
