@@ -62,7 +62,23 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 ![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhathi97&custom_title=Bhathiya%20Bandara%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<div align="center">
 
+  ![.NET](https://img.icons8.com/color/48/000000/dot-net.png)
+  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+  ![WPF](https://img.icons8.com/color/48/000000/xaml.png)
+  ![Laravel](https://img.icons8.com/color/48/000000/laravel.png)
+  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+  ![Electronics](https://img.icons8.com/color/48/000000/electronics.png)
+  ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+  ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+  ![Python](https://img.icons8.com/color/48/000000/python.png)
+  ![IoT](https://img.icons8.com/color/48/000000/internet-of-things.png)
+  ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
+  ![VB](https://img.icons8.com/color/48/000000/visual-basic.png)
+
+</div>
 
 
 
