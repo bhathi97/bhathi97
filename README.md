@@ -40,6 +40,23 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 <br/>
 <p align="right"> Bhathiya Bandara.</p>
 
+## Summery
+
+<p align="left">
+  <a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhathi97&theme=radical" alt="Bhathiya GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="left">
+  <a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhathi97&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%%22" alt="Bhathiya GitHub Contribution"/>
+  </a>
+</p>
+
+![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhathi97&custom_title=Bhathiya%20Bandara%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<div align="center">
 ---
 
 - 📝 I write articles on
@@ -67,25 +84,6 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 - 📫 Reach me **bhathiya.rb@gmail.com**
 
 ---
-
-## Summery
-
-<p align="left">
-  <a>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhathi97&theme=radical" alt="Bhathiya GitHub Contribution"/>
-  </a>
-</p>
-
-<p align="left">
-  <a>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=bhathi97&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866%22%20height=%22192px%22%20width=%2249.5%%22" alt="Bhathiya GitHub Contribution"/>
-  </a>
-</p>
-
-![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhathi97&custom_title=Bhathiya%20Bandara%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<div align="center">
-
 
 
 </div>
