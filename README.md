@@ -35,7 +35,7 @@ Hello! My name is Bhathiya Akalanka Ranaweera Bandara, and I am a student, progr
 
 I am eager to expand my knowledge and learn new things that will broaden my perspectives. My personal abilities include effective time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills. While I am a multitasker, I believe in focusing on one goal at a time to add value and achieve the best possible outcome.
 
-- 📝 I write articles on [Linkedin](www.linkedin.com/in/bhathiya-bandara)
+- 📝 I write articles on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
 
 - 💬 Ask me about **.NET, C#, WPF, Laravel , Java, Electronics, SQL, JavaScript, C, Python, IoT, Arduino and VB**
 
