@@ -21,6 +21,14 @@ I possess expertise in Java, Electronics, SQL, JavaScript, C, Python, IoT, Ardui
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhathi97)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  <a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhathi97&theme=radical" alt="Bhathiya GitHub Contribution"/>
+  </a>
+</p>
+
+
+
 
 
 
