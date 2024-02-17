@@ -3,10 +3,16 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
 <h1 align="center">Hi 👋, I'm Bhathiya Bandara</h1>
 <h3 align="center">A passionate .NET developer</h3>
 
-<p align="left">
+<p >
   <a>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bhathi97&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Bhathiya GitHub Lanvages"/>
   </a>
+
+  
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathi97&theme=radical&border=7F3FBF&background=0D1117" alt="Bhathiya GitHub Status"/>
+  </a>
+
 </p>
 
 ![I am GitHub Readme Generator's creator](https://github.com/bhathi97/bhathi97/blob/main/Banner.gif)
