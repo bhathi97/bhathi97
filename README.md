@@ -38,7 +38,8 @@ I am currently engaged as an Associate Software Engineer at payMedia (Pvt) Limit
 I am eager to expand my knowledge and learn new things that will broaden my perspectives. My personal abilities include effective time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills. While I am a multitasker, I believe in focusing on one goal at a time to add value and achieve the best possible outcome.
 
 <br/>
-<p align="left"> Bhathiya bandara</p>
+<p align="right"> Bhathiya Bandara.</p>
+
 ---
 
 - 📝 I write articles on
