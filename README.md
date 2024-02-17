@@ -40,9 +40,9 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 <br/>
 
 - 📝 I write articles on
-<div>
+
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
-</div>
+
 
 
 - 💬 Ask me about 
