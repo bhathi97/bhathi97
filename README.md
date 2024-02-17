@@ -60,7 +60,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 # 
 
-- 📝 I write articles on
+- 📝 I write articles on <br/>
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/Bhathiya_Bandara/)
 
 - 💬 Ask me about 
