@@ -31,6 +31,8 @@ I possess expertise in Java, Electronics, SQL, JavaScript, C, Python, IoT, Ardui
   </a>
 </p>
 
+![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhathi97&custom_title=Bhathiya%20Bandara%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhathi97)](https://github.com/anuraghazra/github-readme-stats)
 
 
