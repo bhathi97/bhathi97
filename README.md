@@ -64,10 +64,12 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 <div align="center">
 
+<div align="center">
+
   ![.NET](https://img.icons8.com/color/48/000000/dot-net.png)
   ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![WPF](https://img.icons8.com/color/48/000000/xaml.png)
-  ![Laravel](https://img.icons8.com/color/48/000000/laravel.png)
+  ![PHP](https://img.icons8.com/color/48/000000/php.png)
   ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
   ![Electronics](https://img.icons8.com/color/48/000000/electronics.png)
   ![SQL](https://img.icons8.com/color/48/000000/sql.png)
@@ -77,6 +79,12 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
   ![IoT](https://img.icons8.com/color/48/000000/internet-of-things.png)
   ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
   ![VB](https://img.icons8.com/color/48/000000/visual-basic.png)
+  ![PHP](https://img.icons8.com/color/48/000000/php.png)
+  ![Desktop App](https://img.icons8.com/color/48/000000/desktop.png)
+  ![HTTP Web App](https://img.icons8.com/color/48/000000/web.png)
+
+</div>
+
 
 </div>
 
