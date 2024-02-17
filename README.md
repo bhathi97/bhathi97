@@ -61,7 +61,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 # 
 
 - 📝 I write articles on
-  [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/Bhathiya_Bandara/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/Bhathiya_Bandara/)
 
 - 💬 Ask me about 
 <div align="center">
@@ -85,7 +85,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 </div>
 
 
-- 📫 Reach me **bhathiya.rb@gmail.com**
+- 📫 Reach me <br/>
 [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:bhathiya.rb@gmail.com)
 
 
