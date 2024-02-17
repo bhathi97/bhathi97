@@ -1,14 +1,13 @@
-# Bhathiya Bandara
-BSc.(Hons) in Electronics & Information Technology (UOC)
+Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
 
 <h1 align="center">Hi 👋, I'm Bhathiya Bandara</h1>
 <h3 align="center">A passionate .NET developer</h3>
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
+- 📝 I write articles on [Linkedin](www.linkedin.com/in/bhathiya-bandara)
 
 - 💬 Ask me about **.NET, C#, WPF, Laravel**
 
-- 📫 How to reach me **bhathiya.rb@gmail.com**
+- 📫 Reach me **bhathiya.rb@gmail.com**
 
 ![I am GitHub Readme Generator's creator](https://github.com/bhathi97/bhathi97/blob/main/Banner.gif)
 
