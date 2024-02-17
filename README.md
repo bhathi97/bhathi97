@@ -37,8 +37,9 @@ I am currently engaged as an Associate Software Engineer at payMedia (Pvt) Limit
 
 I am eager to expand my knowledge and learn new things that will broaden my perspectives. My personal abilities include effective time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills. While I am a multitasker, I believe in focusing on one goal at a time to add value and achieve the best possible outcome.
 
----
 <br/>
+<p align="left"> Bhathiya bandara</p>
+---
 
 - 📝 I write articles on
 
@@ -64,8 +65,6 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 - 📫 Reach me **bhathiya.rb@gmail.com**
 
-<br/>
-
 ---
 
 ## Summery
@@ -86,22 +85,6 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 <div align="center">
 
-<div align="center">
-
-  ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-  ![WPF](https://img.icons8.com/color/48/000000/xaml.png)
-  ![PHP](https://img.icons8.com/color/48/000000/php.png)
-  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-  ![Electronics](https://img.icons8.com/color/48/000000/electronics.png)
-  ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-  ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-  ![C](https://img.icons8.com/color/48/000000/c-programming.png)
-  ![Python](https://img.icons8.com/color/48/000000/python.png)
-  ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
-  ![Desktop App](https://img.icons8.com/color/48/000000/desktop.png)
-  ![HTTP Web App](https://img.icons8.com/color/48/000000/web.png)
-
-</div>
 
 
 </div>
