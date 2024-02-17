@@ -2,12 +2,12 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
 
 <h1 align="center">Hi 👋, I'm Bhathiya Bandara</h1>
 <h3 align="center">A passionate .NET developer</h3>
-<p  align="center">
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhathi97)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Bhathiya_R_Bandara)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhathiya_r_bandara/)
-</p>
+
 
 <p align="center">
   <a>
