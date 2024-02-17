@@ -12,9 +12,6 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
 
 </div>
 
-
-
-
 <p align="center">
   <a>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=bhathi97&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Bhathiya GitHub Languages" height="150"/>
@@ -23,7 +20,6 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhathi97&theme=radical&border=7F3FBF&background=0D1117" alt="Bhathiya GitHub Status" height="150"/>
   </a>
 </p>
-
 
 ![I am GitHub Readme Generator's creator](https://github.com/bhathi97/bhathi97/blob/main/Banner.gif)
 
@@ -40,6 +36,8 @@ I trained as a Software Developer Trainee at Ceylon Petroleum Corporation, where
 I am currently engaged as an Associate Software Engineer at payMedia (Pvt) Limited, where I am actively involved in the software developments. My expertise lies in utilizing technologies such as .NET framework, C#, WPF, Laravel, and PHP. A significant portion of my responsibilities is cantered around developing software for Banking CDM , VTM machines (Kiosks).Hello! My name is Bhathiya Akalanka Ranaweera Bandara, and I am a student, programmer, baseball player, and responsible individual residing in Kandy. My primary language is Sinhala, but I am proficient in English and some Tamil.
 
 I am eager to expand my knowledge and learn new things that will broaden my perspectives. My personal abilities include effective time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills. While I am a multitasker, I believe in focusing on one goal at a time to add value and achieve the best possible outcome.
+
+<br/>
 
 - 📝 I write articles on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
 
