@@ -31,7 +31,13 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
   <img src="https://profile-counter.glitch.me/bhathi97/count.svg" />
 </p>
 
-Hello! My name is Bhathiya Akalanka Ranaweera Bandara, and I am a student, programmer, baseball player, and responsible individual residing in Kandy. My primary language is Sinhala, but I am proficient in English and some Tamil.
+Hi...! I'm Bhathiya Akalanka Ranaweera Bandara, with a passion for professional software development. As a student, programmer, and baseball player, I have honed my skills in time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills with a focus on adding new value to goals. I am maintaining my commitment to pursuing one goal at a time.
+
+Living in Sri Lanka, I am a native speaker of Sinhala, but I am also fluent in English and have a working knowledge of Tamil. 
+
+I trained as a Software Developer Trainee at Ceylon Petroleum Corporation, where I was enjoying the opportunity to learn coding different kind of systems and collaborate with teams. In this role, I have been able to apply my programming skills and work on various software projects that have contributed to the company's success.
+
+I am currently engaged as an Associate Software Engineer at payMedia (Pvt) Limited, where I am actively involved in the software developments. My expertise lies in utilizing technologies such as .NET framework, C#, WPF, Laravel, and PHP. A significant portion of my responsibilities is cantered around developing software for Banking CDM , VTM machines (Kiosks).Hello! My name is Bhathiya Akalanka Ranaweera Bandara, and I am a student, programmer, baseball player, and responsible individual residing in Kandy. My primary language is Sinhala, but I am proficient in English and some Tamil.
 
 I am eager to expand my knowledge and learn new things that will broaden my perspectives. My personal abilities include effective time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills. While I am a multitasker, I believe in focusing on one goal at a time to add value and achieve the best possible outcome.
 
