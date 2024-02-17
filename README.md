@@ -58,7 +58,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 <div align="center">
 
-# Summery
+# 
 
 - 📝 I write articles on
 
@@ -84,7 +84,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 - 📫 Reach me **bhathiya.rb@gmail.com**
 
----
+## Thank you.
 
 
 </div>
