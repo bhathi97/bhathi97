@@ -65,7 +65,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
 
 - 💬 Ask me about 
-<div>
+<div align="center">
 
   ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
   ![WPF](https://img.icons8.com/color/48/000000/xaml.png)
@@ -79,8 +79,12 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
   ![Arduino](https://img.icons8.com/color/48/000000/arduino.png)
   ![Desktop App](https://img.icons8.com/color/48/000000/desktop.png)
   ![HTTP Web App](https://img.icons8.com/color/48/000000/web.png)
+  ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+  ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+  ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 
 </div>
+
 
 - 📫 Reach me **bhathiya.rb@gmail.com**
 
