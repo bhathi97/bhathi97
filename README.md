@@ -95,6 +95,9 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 </div>
 
+-- bullet points
+
+** bold text
 
 
 
