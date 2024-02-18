@@ -5,7 +5,7 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Bhathiya_Bandara/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhathiya-bandara/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhathi97)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Bhathiya_R_Bandara)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhathiya_r_bandara/)
@@ -61,7 +61,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 # 
 
 - 📝 I write articles on <br/>
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/Bhathiya_Bandara/)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/bhathiya-bandara/)
 
 - 💬 Ask me about 
 <div align="center">
