@@ -27,7 +27,7 @@ Bhathiya Bandara : BSc.(Hons) in Electronics & Information Technology (UOC)
   <img src="https://profile-counter.glitch.me/bhathi97/count.svg" />
 </p>
 
-Hi...! I'm Bhathiya Akalanka Ranaweera Bandara, with a passion for professional software development. As a student, programmer, and baseball player, I have honed my skills in time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills with a focus on adding new value to goals. I am maintaining my commitment to pursuing one goal at a time.
+Hi...! I'm **Bhathiya Akalanka Ranaweera Bandara**, with a passion for professional software development. As a student, programmer, and baseball player, I have honed my skills in time management, problem-solving, creative thinking, teamwork, leadership, and organizational skills with a focus on adding new value to goals. I am maintaining my commitment to pursuing one goal at a time.
 
 Living in Sri Lanka, I am a native speaker of Sinhala, but I am also fluent in English and have a working knowledge of Tamil. 
 
@@ -97,7 +97,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 - bullet points
 
-* bold text
+* bullet points
 
 
 
