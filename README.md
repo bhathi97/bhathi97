@@ -56,7 +56,7 @@ I am eager to expand my knowledge and learn new things that will broaden my pers
 
 ![Bhathiya's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhathi97&custom_title=Bhathiya%20Bandara%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhathi97)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bhathi97&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <div align="center">
